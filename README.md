@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |

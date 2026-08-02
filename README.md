@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 ## Counting
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

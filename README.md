@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 ## Counting

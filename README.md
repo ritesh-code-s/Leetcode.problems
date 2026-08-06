@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
 | ------- |

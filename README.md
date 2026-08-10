@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -137,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0709-to-lower-case) |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2235-add-two-integers) |
 ## Counting
 |  |
 | ------- |

@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0709-to-lower-case) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy

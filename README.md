@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |

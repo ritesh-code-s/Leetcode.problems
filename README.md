@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0137-single-number-ii) |
 | [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
 ## Recursion
 |  |

@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

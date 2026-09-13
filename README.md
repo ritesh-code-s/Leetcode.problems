@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
+| [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0342-power-of-four) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->

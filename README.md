@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -160,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0709-to-lower-case) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

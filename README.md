@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0162-find-peak-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

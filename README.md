@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |

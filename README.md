@@ -176,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -239,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Union-Find
 |  |
 | ------- |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

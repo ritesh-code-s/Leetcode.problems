@@ -3,10 +3,22 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
 
-        sort(nums.begin(), nums.end());
+        int max1 = 0;
+        int max2 = 0;
 
-        int n = nums.size();
+        for(int i = 0; i < nums.size(); i++) {
 
-        return (nums[n - 1] - 1) * (nums[n - 2] - 1);
+            if(nums[i] > max1) {
+                max2 = max1;
+                max1 = nums[i];
+            }
+            else if(nums[i] > max2) {
+                max2 = nums[i];
+            }
+        }
+
+        int ans = (max1 - 1) * (max2 - 1);
+
+        return ans;
     }
 };

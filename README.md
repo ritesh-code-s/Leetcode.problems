@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -319,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

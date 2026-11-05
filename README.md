@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0704-binary-search) |
 | [0878-nth-magical-number](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/0878-nth-magical-number) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-code-s/Leetcode.problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
